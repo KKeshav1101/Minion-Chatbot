@@ -3,7 +3,7 @@
 <h3>Pre-Requisites</h3>  
 1.  API token for Gemini AI<br>
 2.  API token for OpenWeather<br>
-<h3>Workflow</h3>
+<h3>Workflow-If you donwload the files.</h3>
 1.  In command line, reach the working directory of manage.py<br>
 2.  Run `py manage.py runserver`<br>
 3.  You will see auth.html running in localhost<br>
