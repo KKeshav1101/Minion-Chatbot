@@ -16,7 +16,7 @@ WEATHER_API_KEY=''
 prompt_buffer = []
 MAX_BUFFER = 5
 
-genai_client = genai.Client(api_key = GEMINI_API_KEY)
+global genai_client
 
 def auth(request):
     tf=TokenForm()
