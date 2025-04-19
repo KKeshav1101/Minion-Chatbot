@@ -24,8 +24,10 @@
     f"Weather: {weather_info if weather_info else 'N/A'}\n"<br>
     f"User: {user_prompt}"<br>
 <h3>Output Screenshots</h3>
+<h5>Contextual QA test</h5>
 <img src='https://github.com/KKeshav1101/Minion-Chatbot/blob/main/Screenshot%202025-04-18%20213830.png'>
 <hr>
 <img src='https://github.com/KKeshav1101/Minion-Chatbot/blob/main/Screenshot%202025-04-18%20213847.png'>
 <hr>
+<h5>Weather Request Test</h5>
 <img src='https://github.com/KKeshav1101/Minion-Chatbot/blob/main/Screenshot%202025-04-19%20114128.png'>
