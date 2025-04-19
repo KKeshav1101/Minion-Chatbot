@@ -25,5 +25,6 @@
     f"User: {user_prompt}"<br>
 <h3>Output Screenshots</h3>
 <img src='https://github.com/KKeshav1101/Minion-Chatbot/blob/main/Screenshot%202025-04-18%20213830.png'>
-<img src='https://github.com/KKeshav1101/Minion-Chatbot/blob/main/Screenshot%202025-04-18%20213837.png'>
-<img src=''>
+<hr>
+<img src='https://github.com/KKeshav1101/Minion-Chatbot/blob/main/Screenshot%202025-04-18%20213847.png'>
+
